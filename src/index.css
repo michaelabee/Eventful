@@ -1,0 +1,12 @@
+.navlist {
+    list-style:none;
+    display: inline-block;
+    padding: 2px;
+    margin-right:5px;
+}
+
+.title{
+    font-size: 40px;
+    font-style:bold;
+    border-bottom: 1px solid black;
+}
